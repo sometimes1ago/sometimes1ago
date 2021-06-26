@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sometimes1ago. My name is Alexander. Nice to meet you, visiter
-- 👀 I’m interested in UX/UI Design and Web development, self-development and learning something new every time. I also like animals, travelling, gaing and weightlifting
+- 👀 I’m interested in UX/UI Design and Web development, self-development and learning something new every time. I also like animals, travelling, gaming and weightlifting
 - 🌱 I’m currently repeating frontend development and learning motion-design, backend dev.
 - 💞️ I’m looking to collaborate with some team or company
 - 📫 You can reach me in telegram @sometimes_ago or https://vk.com/sometimes_ago
